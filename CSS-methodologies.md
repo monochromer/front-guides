@@ -22,6 +22,10 @@
   * [Микрометодология вёрстки OPOR](http://nano.sapegin.ru/all/opor-methodology)
 * suitcss
  * [Style tools for UI components](https://suitcss.github.io/)
+* Inverted Triangle CSS
+ * [github](https://github.com/itcss)
+ * [Видео](https://www.youtube.com/watch?v=1OKZOV-iLj4),[Слайды](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
+ * [Статья "Thomas Byttebier - less-css-mess"](http://thomasbyttebier.be/blog/less-css-mess)
 
 
 ##### Материалы по теме:
