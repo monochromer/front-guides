@@ -20,6 +20,8 @@
   * [Reasonable System for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
 * OPOR
   * [Микрометодология вёрстки OPOR](http://nano.sapegin.ru/all/opor-methodology)
+* suitcss
+ * [Style tools for UI components](https://suitcss.github.io/)
 
 
 ##### Материалы по теме:
