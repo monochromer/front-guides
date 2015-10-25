@@ -86,3 +86,7 @@
 * [Material Framework](http://nt1m.github.io/material-framework). Material Framework is a simple responsive CSS framework made by Tim Nguyen that allows you to integrate Material Design in any web page or web app.
 
 * [Spin Kit](http://tobiasahlin.com/blog/spinkit/).
+ 
+
+**** Материалы по теме
+ [http://www.cssauthor.com/css-frameworks/](http://www.cssauthor.com/css-frameworks/)
