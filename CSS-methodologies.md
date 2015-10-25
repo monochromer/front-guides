@@ -32,3 +32,5 @@
 * [Способы организации CSS-кода](http://habrahabr.ru/post/256109/)
 * [Методологии верстки](http://html5.by/blog/bem-amcss-oocss-atomiccss-opor-mcss-smacss-fun-docssa-video/)
 * [Начинаем писать CSS](http://frontender.info/starting-css/)
+* [Бен Дарлоу. Культ карго CSS](http://web-standards.ru/articles/cargo-cult-css/)
+* [Филип Уолтон. Архитектура CSS](http://web-standards.ru/articles/css-architecture/)
