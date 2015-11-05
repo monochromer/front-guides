@@ -17,7 +17,7 @@
 * FUN
   * [Статья](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 * rscss
-  * [Reasonable System for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
+  * [Reasonable System for CSS Stylesheet Structure](https://github.com/rstacruz/rscss), [rscss.io](http://rscss.io)
 * OPOR
   * [Микрометодология вёрстки OPOR](http://nano.sapegin.ru/all/opor-methodology)
 * suitcss
