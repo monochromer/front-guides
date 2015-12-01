@@ -5,6 +5,16 @@
 * [Select2](http://select2.github.io/)
 * [Selectize](http://brianreavis.github.io/selectize.js/)
 
+
+##### Слайдеры
+* [Glide](http://glide.jedrzejchalubek.com/)
+* [Slick](http://kenwheeler.github.io/slick/)
+* [Owl Carousel 2](http://owlcarousel.owlgraphic.com/)
+* [Swiper](http://www.idangero.us/swiper)
+* [bx slider](http://bxslider.com/)
+* [flex slider](http://flexslider.woothemes.com/index.html)
+* [peppermint](http://wd.dizaina.net/scripts/peppermint/)
+
 ##### Стилизация скролла
 * [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
 * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS)
