@@ -21,6 +21,19 @@
 * [Scrollar](https://github.com/ALeutsky/Scrollar), [статья с описанием принципа](http://habrahabr.ru/post/178299/)
 * [Baron](https://github.com/Diokuz/baron), [статья с описанием принципа](http://habrahabr.ru/company/2gis/blog/169359/)
 
+##### Календари
+* [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
+* [Pikaday](https://github.com/dbushell/Pikaday)
+* [Brian McAllister. DatePicker](https://github.com/freqdec/datePicker)
+* [Chris Hulbert. Datepicker](https://github.com/chrishulbert/datepicker)
+* [Federico Baña. Datepicker](https://github.com/banafederico/datepicker)
+* [https://github.com/remi-grumeau/DatePicker](https://github.com/remi-grumeau/DatePicker)
+* [https://github.com/yanbingbing/datepicker](https://github.com/yanbingbing/datepicker)
+* [https://github.com/mobinni/material-date-picker](https://github.com/mobinni/material-date-picker)
+* [https://bitbucket.org/stasgavrylov/datepicker/](https://bitbucket.org/stasgavrylov/datepicker/)
+* [http://eonasdan.github.io/bootstrap-datetimepicker/](http://eonasdan.github.io/bootstrap-datetimepicker/)
+* [http://www.malot.fr/bootstrap-datetimepicker/](http://www.malot.fr/bootstrap-datetimepicker/)
+
 ##### JavaScript-библиотеки для построения диаграмм/схем/графиков
 * [highcharts](http://www.highcharts.com/)
 * [D3js](http://d3js.org/)
