@@ -33,6 +33,7 @@
 * [https://bitbucket.org/stasgavrylov/datepicker/](https://bitbucket.org/stasgavrylov/datepicker/)
 * [http://eonasdan.github.io/bootstrap-datetimepicker/](http://eonasdan.github.io/bootstrap-datetimepicker/)
 * [http://www.malot.fr/bootstrap-datetimepicker/](http://www.malot.fr/bootstrap-datetimepicker/)
+* [Air datepicker](http://t1m0n.name/air-datepicker/docs/)
 
 ##### JavaScript-библиотеки для построения диаграмм/схем/графиков
 * [highcharts](http://www.highcharts.com/)
