@@ -20,6 +20,7 @@
 * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS)
 * [Scrollar](https://github.com/ALeutsky/Scrollar), [статья с описанием принципа](http://habrahabr.ru/post/178299/)
 * [Baron](https://github.com/Diokuz/baron), [статья с описанием принципа](http://habrahabr.ru/company/2gis/blog/169359/)
+* [rocketScroll](https://github.com/Stanko/rocketScroll)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
