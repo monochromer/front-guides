@@ -5,6 +5,8 @@
 * [Select2](http://select2.github.io/)
 * [Selectize](http://brianreavis.github.io/selectize.js/)
 
+# Деревья
+* [inspire tree](https://github.com/helion3/inspire-tree)
 
 ##### Слайдеры
 * [Glide](http://glide.jedrzejchalubek.com/)
