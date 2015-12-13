@@ -1,5 +1,8 @@
 ## JavaScript-библиотеки
 
+##### Для упрощения работы
+* [blissfuljs](http://blissfuljs.com/)
+
 ##### Выпадающие списки
 * [Chosen](http://harvesthq.github.io/chosen/)
 * [Select2](http://select2.github.io/)
@@ -7,6 +10,14 @@
 
 ##### Деревья
 * [inspire tree](https://github.com/helion3/inspire-tree)
+
+##### Скроллинг
+* [jump.js](http://callmecavs.github.io/jump.js/)
+
+
+##### Навигация и роутинг
+* [Highway](https://github.com/ashh640/Highway). A fast, lightweight and simple Javascript routing library with no dependencies. 
+
 
 ##### Слайдеры
 * [Glide](http://glide.jedrzejchalubek.com/)
