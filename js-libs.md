@@ -11,6 +11,10 @@
 ##### Деревья
 * [inspire tree](https://github.com/helion3/inspire-tree)
 
+
+##### Стуктура и сетки
+* [minigrid](http://alves.im/minigrid/)
+
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
 
