@@ -12,7 +12,7 @@
 * [inspire tree](https://github.com/helion3/inspire-tree)
 
 
-##### Стуктура и сетки
+##### Структура и сетки
 * [minigrid](http://alves.im/minigrid/)
 
 ##### Скроллинг
