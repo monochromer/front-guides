@@ -75,3 +75,9 @@
 * [ZingChart](https://www.zingchart.com/)
 * [Raphaël](http://raphaeljs.com/)
 * [еще...](http://techslides.com/50-javascript-charting-and-graphics-libraries)
+
+
+##### Двустороннее связывание данных
+* [way](http://gwendall.github.io/way/)
+* [Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)
+* [Tiny two way data binding](https://remysharp.com/2015/06/02/bind)
