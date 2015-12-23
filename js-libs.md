@@ -34,6 +34,9 @@
 * [flex slider](http://flexslider.woothemes.com/index.html)
 * [peppermint](http://wd.dizaina.net/scripts/peppermint/)
 
+##### Галереи
+* [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/)* 
+
 ##### Стилизация скролла
 * [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
 * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS)
@@ -82,3 +85,6 @@
 * [way](http://gwendall.github.io/way/)
 * [Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)
 * [Tiny two way data binding](https://remysharp.com/2015/06/02/bind)
+*
+
+
