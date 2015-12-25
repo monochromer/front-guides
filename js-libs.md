@@ -3,6 +3,7 @@
 ##### Для упрощения работы
 * [blissfuljs](http://blissfuljs.com/)
 * [sprint](https://github.com/bendc/sprint). A tiny, lightning fast jQuery-like library for modern browsers.
+* [bala](https://github.com/finom/bala)
 
 ##### Выпадающие списки
 * [Chosen](http://harvesthq.github.io/chosen/)
