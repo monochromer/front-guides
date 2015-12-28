@@ -10,6 +10,7 @@
 * [Select2](http://select2.github.io/)
 * [Selectize](http://brianreavis.github.io/selectize.js/)
 * [Multiple Select](https://github.com/wenzhixin/multiple-select). Multiple select is a jQuery plugin to select multiple elements with checkboxes
+* [bootstrap multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
 
 ##### Деревья
 * [inspire tree](https://github.com/helion3/inspire-tree)
@@ -86,6 +87,5 @@
 * [way](http://gwendall.github.io/way/)
 * [Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)
 * [Tiny two way data binding](https://remysharp.com/2015/06/02/bind)
-*
 
 
