@@ -89,4 +89,10 @@
 * [Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)
 * [Tiny two way data binding](https://remysharp.com/2015/06/02/bind)
 
+##### Анимация
+* [walkway](https://github.com/ConnorAtherton/walkway).An easy way to animate SVG elements
+* [segment](https://github.com/lmgonzalves/segment).A little JavaScript class (without dependencies) to draw and animate SVG path strokes
+* [drawSVG](http://greensock.com/drawSVG)
+* [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
+
 
