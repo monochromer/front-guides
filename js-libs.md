@@ -64,6 +64,7 @@
 * [http://www.malot.fr/bootstrap-datetimepicker/](http://www.malot.fr/bootstrap-datetimepicker/)
 * [Air datepicker](http://t1m0n.name/air-datepicker/docs/)
 * [PickMeUp](https://github.com/nazar-pc/PickMeUp)
+* [pickadate.js](https://github.com/amsul/pickadate.js)
 
 ##### JavaScript-библиотеки для построения диаграмм/схем/графиков
 * [highcharts](http://www.highcharts.com/)
