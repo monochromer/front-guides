@@ -2,6 +2,7 @@
 
 ##### Для упрощения работы
 * [blissfuljs](http://blissfuljs.com/)
+* [bling.js](https://gist.github.com/paulirish/12fb951a8b893a454b32)
 * [snack](https://github.com/ryanflorence/snack). A tiny, cross-browser, JavaScript library.
 * [sprint](https://github.com/bendc/sprint). A tiny, lightning fast jQuery-like library for modern browsers.
 * [bala](https://github.com/finom/bala)
