@@ -101,3 +101,7 @@
 * [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
 
 
+##### Валидация данных
+* [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
+
+
