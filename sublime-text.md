@@ -39,6 +39,7 @@
 * Predawn
 * Material Theme
 * Seti_UI
+* Afterglow
 * Theme - Primer
 * Theme - Soda
 * Theme - Spacegray
