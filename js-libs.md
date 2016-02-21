@@ -24,6 +24,7 @@
 
 ##### Структура и сетки
 * [minigrid](http://alves.im/minigrid/)
+* [bricks.js](http://callmecavs.com/bricks.js/)
 
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
@@ -43,7 +44,7 @@
 * [peppermint](http://wd.dizaina.net/scripts/peppermint/)
 
 ##### Галереи
-* [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/)* 
+* [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/) 
 
 ##### Стилизация скролла
 * [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
@@ -104,5 +105,9 @@
 
 ##### Валидация данных
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
+* 
+
+#### Адаптивные паттерны
+* [okayNav](https://github.com/VPenkov/okayNav)
 
 
