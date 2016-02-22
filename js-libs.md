@@ -105,9 +105,11 @@
 
 ##### Валидация данных
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
-* 
+
 
 #### Адаптивные паттерны
 * [okayNav](https://github.com/VPenkov/okayNav)
+ 
 
-
+#### Эффекты
+* [particles.js](http://vincentgarreau.com/particles.js/)
