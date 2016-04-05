@@ -68,6 +68,8 @@
 * [Air datepicker](http://t1m0n.name/air-datepicker/docs/)
 * [PickMeUp](https://github.com/nazar-pc/PickMeUp)
 * [pickadate.js](https://github.com/amsul/pickadate.js)
+* [CLNDR.js](http://kylestetz.github.io/CLNDR/)
+* [monthly.js](http://kthornbloom.com/monthly/)
 
 ##### JavaScript-библиотеки для построения диаграмм/схем/графиков
 * [highcharts](http://www.highcharts.com/)
