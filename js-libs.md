@@ -22,6 +22,12 @@
 * [dragdealer](https://github.com/skidding/dragdealer)
 
 
+##### Ползунки
+* [nouislider](http://refreshless.com/nouislider/)
+* [ion.rangeSlider](http://ionden.com/a/plugins/ion.rangeSlider/)
+* [jQRangeSlider](http://ghusse.github.io/jQRangeSlider)
+
+
 ##### Структура и сетки
 * [minigrid](http://alves.im/minigrid/)
 * [bricks.js](http://callmecavs.com/bricks.js/)
