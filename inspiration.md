@@ -3,6 +3,7 @@
 * [Behance](https://www.behance.net/ )
 * [Dribbble](https://dribbble.com/)
 * [Flatun](http://flatun.com)
+* [CodePen](codepen.io)
 * [CSS Zen Garden](http://www.csszengarden.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Codyhouse](https://codyhouse.co/)
