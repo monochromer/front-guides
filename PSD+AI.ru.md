@@ -9,6 +9,5 @@
 * [Требования к дизайн-макету сайта ](http://palpalych.ru/blog/7-prochee/85-trebovanija-k-dizajnmaketu-sajta.html)
 * [За что HTML-верстальщики так не любят веб-дизайнеров](http://habrahabr.ru/post/173271/)
 * [photoshop etiquette](http://photoshopetiquette.com/)
-* [Про порядок в PSD](https://github.com/CSSSR/sputnik/blob/master/Useful%20Services.md#%D0%9F%D1%80%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-%D0%B2-psd)
 * [О чём должен помнить веб-дизайнер](https://github.com/nicothin/web-design)
 * [О чём смеются верстальщики](https://www.youtube.com/watch?v=lW4uzJp6uIg)
