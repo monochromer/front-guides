@@ -48,6 +48,8 @@
   
 * [KNACSS](http://knacss.com/).
 
+* [Spectre](http://picturepan2.github.io/spectre).
+
 * [FlexCSS](http://bowlingx.github.io/flexcss/). This is FlexCss, a full-featured pattern library built for hellofellow.com
   
 * [Material Design Lite](http://www.getmdl.io). Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.  
