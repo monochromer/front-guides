@@ -21,6 +21,8 @@
 ##### Drag'n'Drop
 * [dragdealer](https://github.com/skidding/dragdealer)
 
+##### Ресайз-панели
+* [Golden Layout](https://www.golden-layout.com/)
 
 ##### Ползунки
 * [nouislider](http://refreshless.com/nouislider/)
