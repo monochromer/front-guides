@@ -33,6 +33,7 @@
 ##### Структура и сетки
 * [minigrid](http://alves.im/minigrid/)
 * [bricks.js](http://callmecavs.com/bricks.js/)
+* [bricklayer](http://ademilter.github.io/bricklayer/)
 
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
