@@ -41,6 +41,7 @@
 
 ##### Навигация и роутинг
 * [Highway](https://github.com/ashh640/Highway). A fast, lightweight and simple Javascript routing library with no dependencies. 
+* [router5](http://router5.github.io/). Functional, flexible and powerful routing solution. 
 
 
 ##### Слайдеры
