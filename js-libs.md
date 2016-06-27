@@ -80,6 +80,7 @@
 * [pickadate.js](https://github.com/amsul/pickadate.js)
 * [CLNDR.js](http://kylestetz.github.io/CLNDR/)
 * [monthly.js](http://kthornbloom.com/monthly/)
+* [flatpickr](https://chmln.github.io/flatpickr)
 
 ##### JavaScript-библиотеки для построения диаграмм/схем/графиков
 * [highcharts](http://www.highcharts.com/)
