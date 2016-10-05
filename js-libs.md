@@ -37,6 +37,7 @@
 
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
+* [viewscroller](http://www.viewdesic.com/viewscroller/)
 
 
 ##### Навигация и роутинг
