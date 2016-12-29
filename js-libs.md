@@ -119,6 +119,7 @@
 
 ##### Валидация данных
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
+* [obey. Asynchronous JavaScript Data Modelling and Validation](https://github.com/TechnologyAdvice)
 
 
 #### Адаптивные паттерны
