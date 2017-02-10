@@ -34,6 +34,10 @@
 * [minigrid](http://alves.im/minigrid/)
 * [bricks.js](http://callmecavs.com/bricks.js/)
 * [bricklayer](http://ademilter.github.io/bricklayer/)
+* [gridster.js](http://dsmorse.github.io/gridster.js/)
+* [jquery.shapeshift](https://github.com/McPants/jquery.shapeshift)
+* [jquery-gridly](http://ksylvest.github.io/jquery-gridly/)
+* [gridstack.js](https://github.com/troolee/gridstack.js)
 
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
