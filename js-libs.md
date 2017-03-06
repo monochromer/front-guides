@@ -123,9 +123,11 @@
 * [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
 
 
-##### Валидация данных
+##### Валидация данных и маски ввода
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
 * [obey. Asynchronous JavaScript Data Modelling and Validation](https://github.com/TechnologyAdvice)
+* [cleave.js](http://nosir.github.io/cleave.js/)
+* [imaskjs](https://github.com/uNmAnNeR/imaskjs)
 
 
 #### Адаптивные паттерны
