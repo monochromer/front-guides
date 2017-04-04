@@ -13,6 +13,7 @@
 * [Selectize](http://brianreavis.github.io/selectize.js/)
 * [Multiple Select](https://github.com/wenzhixin/multiple-select). Multiple select is a jQuery plugin to select multiple elements with checkboxes
 * [bootstrap multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
+* [Choices](https://github.com/jshjohnson/Choices)
 
 ##### Деревья
 * [inspire tree](https://github.com/helion3/inspire-tree)
