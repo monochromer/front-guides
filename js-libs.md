@@ -15,6 +15,9 @@
 * [bootstrap multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
 * [Choices](https://github.com/jshjohnson/Choices)
 
+#### Тултипы
+* [tippyjs](https://github.com/atomiks/tippyjs)
+
 ##### Деревья
 * [inspire tree](https://github.com/helion3/inspire-tree)
 * [niTree](https://github.com/AlexLibs/niTree)
