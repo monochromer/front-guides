@@ -16,7 +16,7 @@
 * [Choices](https://github.com/jshjohnson/Choices)
 * [Select built on Tether](https://github.com/HubSpot/select)
 
-#### Тултипы
+##### Тултипы
 * [tippyjs](https://github.com/atomiks/tippyjs)
 
 ##### Деревья
@@ -35,7 +35,7 @@
 * [ion.rangeSlider](http://ionden.com/a/plugins/ion.rangeSlider/)
 * [jQRangeSlider](http://ghusse.github.io/jQRangeSlider)
 
-#### Модальные окна
+##### Модальные окна
 * [tingle](https://github.com/robinparisi/tingle)
 
 ##### Структура и сетки
@@ -52,7 +52,7 @@
 * [jump.js](http://callmecavs.github.io/jump.js/)
 * [viewscroller](http://www.viewdesic.com/viewscroller/)
 
-#### Медиа
+##### Медиа
 * [Plyr](https://github.com/selz/plyr)
 
 ##### Навигация и роутинг
@@ -120,7 +120,6 @@
 * [Raphaël](http://raphaeljs.com/)
 * [еще...](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
-
 ##### Двустороннее связывание данных
 * [way](http://gwendall.github.io/way/)
 * [Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)
@@ -132,18 +131,15 @@
 * [drawSVG](http://greensock.com/drawSVG)
 * [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
 
-
 ##### Валидация данных и маски ввода
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
 * [obey. Asynchronous JavaScript Data Modelling and Validation](https://github.com/TechnologyAdvice)
 * [cleave.js](http://nosir.github.io/cleave.js/)
 * [imaskjs](https://github.com/uNmAnNeR/imaskjs)
 
+##### Адаптивные паттерны
+* [okayNav](https://github.com/VPenkov/okayNav) 
 
-#### Адаптивные паттерны
-* [okayNav](https://github.com/VPenkov/okayNav)
- 
-
-#### Эффекты
+##### Эффекты
 * [particles.js](http://vincentgarreau.com/particles.js/)
 * [particleground](http://jnicol.github.io/particleground/)
