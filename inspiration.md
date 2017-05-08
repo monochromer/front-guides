@@ -27,3 +27,6 @@
 * [Very Nice Sites](http://www.verynicesites.com/)
 * [Top Design Inspiration](https://topdesigninspiration.com/)
 * [Rewards](http://rewards.im)
+* [The FWA](https://thefwa.com/)
+* [website . design . award](www.website-designaward.com/)
+* [cargo collective](http://cargocollective.com/favorites)
