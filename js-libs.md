@@ -14,6 +14,7 @@
 * [Multiple Select](https://github.com/wenzhixin/multiple-select). Multiple select is a jQuery plugin to select multiple elements with checkboxes
 * [bootstrap multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
 * [Choices](https://github.com/jshjohnson/Choices)
+* [Select built on Tether](https://github.com/HubSpot/select)
 
 #### Тултипы
 * [tippyjs](https://github.com/atomiks/tippyjs)
@@ -24,6 +25,7 @@
 
 ##### Drag'n'Drop
 * [dragdealer](https://github.com/skidding/dragdealer)
+* [dropzone](https://github.com/enyo/dropzone)
 
 ##### Ресайз-панели
 * [Golden Layout](https://www.golden-layout.com/)
@@ -33,6 +35,8 @@
 * [ion.rangeSlider](http://ionden.com/a/plugins/ion.rangeSlider/)
 * [jQRangeSlider](http://ghusse.github.io/jQRangeSlider)
 
+#### Модальные окна
+* [tingle](https://github.com/robinparisi/tingle)
 
 ##### Структура и сетки
 * [minigrid](http://alves.im/minigrid/)
@@ -48,12 +52,13 @@
 * [jump.js](http://callmecavs.github.io/jump.js/)
 * [viewscroller](http://www.viewdesic.com/viewscroller/)
 
+#### Медиа
+* [Plyr](https://github.com/selz/plyr)
 
 ##### Навигация и роутинг
 * [Highway](https://github.com/ashh640/Highway). A fast, lightweight and simple Javascript routing library with no dependencies. 
 * [router5](http://router5.github.io/). Functional, flexible and powerful routing solution. 
 * [gibon](https://github.com/tunnckoCore/gibon)
-
 
 ##### Слайдеры
 * [Glide](http://glide.jedrzejchalubek.com/)
@@ -65,7 +70,8 @@
 * [peppermint](http://wd.dizaina.net/scripts/peppermint/)
 
 ##### Галереи
-* [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/) 
+* [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/)
+* [Drift](https://github.com/imgix/drift)
 
 ##### Стилизация скролла
 * [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
