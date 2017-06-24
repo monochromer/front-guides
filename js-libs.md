@@ -131,6 +131,7 @@
 * [segment](https://github.com/lmgonzalves/segment).A little JavaScript class (without dependencies) to draw and animate SVG path strokes
 * [drawSVG](http://greensock.com/drawSVG)
 * [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
+* [vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/)
 
 ##### Валидация данных и маски ввода
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
