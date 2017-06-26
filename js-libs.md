@@ -132,6 +132,7 @@
 * [drawSVG](http://greensock.com/drawSVG)
 * [jquery-drawsvg](http://lcdsantos.github.io/jquery-drawsvg/)
 * [vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/)
+* [pasition](https://github.com/AlloyTeam/pasition)
 
 ##### Валидация данных и маски ввода
 * [Jquery.inputmask](http://robinherbots.github.io/jquery.inputmask/)
