@@ -51,6 +51,7 @@
 ##### Скроллинг
 * [jump.js](http://callmecavs.github.io/jump.js/)
 * [viewscroller](http://www.viewdesic.com/viewscroller/)
+* [stickybits. Alternative to `position: sticky` polyfills](https://github.com/dollarshaveclub/stickybits)
 
 ##### Медиа
 * [Plyr](https://github.com/selz/plyr)
