@@ -147,3 +147,6 @@
 ##### Эффекты
 * [particles.js](http://vincentgarreau.com/particles.js/)
 * [particleground](http://jnicol.github.io/particleground/)
+
+##### Редакторы текста (WYSIWYG)
+* [pell](https://github.com/jaredreich/pell)
