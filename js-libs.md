@@ -80,6 +80,7 @@
 * [Scrollar](https://github.com/ALeutsky/Scrollar), [статья с описанием принципа](http://habrahabr.ru/post/178299/)
 * [Baron](https://github.com/Diokuz/baron), [статья с описанием принципа](http://habrahabr.ru/company/2gis/blog/169359/)
 * [rocketScroll](https://github.com/Stanko/rocketScroll)
+* [jquery.scrollbar](https://gromo.github.io/jquery.scrollbar/)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
