@@ -73,6 +73,7 @@
 ##### Галереи
 * [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/)
 * [Drift](https://github.com/imgix/drift)
+* [SmartPhoto](https://appleple.github.io/SmartPhoto/)
 
 ##### Стилизация скролла
 * [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
