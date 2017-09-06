@@ -64,7 +64,7 @@
 ##### Слайдеры
 * [Glide](http://glide.jedrzejchalubek.com/)
 * [Slick](http://kenwheeler.github.io/slick/)
-* [Owl Carousel 2](http://owlcarousel.owlgraphic.com/)
+* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Swiper](http://www.idangero.us/swiper)
 * [bx slider](http://bxslider.com/)
 * [flex slider](http://flexslider.woothemes.com/index.html)
