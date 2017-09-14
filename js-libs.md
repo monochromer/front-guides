@@ -82,6 +82,8 @@
 * [Baron](https://github.com/Diokuz/baron), [статья с описанием принципа](http://habrahabr.ru/company/2gis/blog/169359/), [видео](https://www.youtube.com/watch?v=fzX9-FZ0Z1Q)
 * [rocketScroll](https://github.com/Stanko/rocketScroll)
 * [jquery.scrollbar](https://gromo.github.io/jquery.scrollbar/)
+* [gemini-scrollbar](https://github.com/noeldelgado/gemini-scrollbar)
+* [malihu-custom-scrollbar-plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
