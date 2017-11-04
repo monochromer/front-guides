@@ -125,6 +125,7 @@
 * [ZingChart](https://www.zingchart.com/)
 * [Raphaël](http://raphaeljs.com/)
 * [britecharts](http://eventbrite.github.io/britecharts)
+* [frappe charts](https://github.com/frappe/charts)
 * [еще...](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
 ##### Двустороннее связывание данных
