@@ -15,6 +15,7 @@
 * [bootstrap multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
 * [Choices](https://github.com/jshjohnson/Choices)
 * [Select built on Tether](https://github.com/HubSpot/select)
+* [slim-select](https://github.com/brianvoe/slim-select)
 
 ##### Тултипы
 * [tippyjs](https://github.com/atomiks/tippyjs)
