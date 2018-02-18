@@ -28,6 +28,7 @@
 * [dragdealer](https://github.com/skidding/dragdealer)
 * [dropzone](https://github.com/enyo/dropzone)
 * [Shopify draggable](https://github.com/Shopify/draggable)
+* [dragula](https://github.com/bevacqua/dragula)
 
 ##### Ресайз-панели
 * [Golden Layout](https://www.golden-layout.com/)
