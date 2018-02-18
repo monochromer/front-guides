@@ -29,6 +29,7 @@
 * [dropzone](https://github.com/enyo/dropzone)
 * [Shopify draggable](https://github.com/Shopify/draggable)
 * [dragula](https://github.com/bevacqua/dragula)
+* [interactjs](http://interactjs.io/)
 
 ##### Ресайз-панели
 * [Golden Layout](https://www.golden-layout.com/)
