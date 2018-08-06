@@ -129,6 +129,7 @@
 * [Raphaël](http://raphaeljs.com/)
 * [britecharts](http://eventbrite.github.io/britecharts)
 * [frappe charts](https://github.com/frappe/charts)
+* [apexcharts](https://github.com/apexcharts/apexcharts.js)
 * [еще...](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
 ##### Двустороннее связывание данных
