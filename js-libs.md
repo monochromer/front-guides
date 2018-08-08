@@ -88,6 +88,7 @@
 * [jquery.scrollbar](https://gromo.github.io/jquery.scrollbar/)
 * [gemini-scrollbar](https://github.com/noeldelgado/gemini-scrollbar)
 * [malihu-custom-scrollbar-plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
+* [simplebar](https://github.com/Grsmto/simplebar)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
