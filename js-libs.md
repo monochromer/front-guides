@@ -80,7 +80,7 @@
 * [SmartPhoto](https://appleple.github.io/SmartPhoto/)
 
 ##### Стилизация скролла
-* [Perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
+* [Perfect-scrollbar](https://github.com/utatti/perfect-scrollbar)
 * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS)
 * [Scrollar](https://github.com/ALeutsky/Scrollar), [статья с описанием принципа](http://habrahabr.ru/post/178299/)
 * [Baron](https://github.com/Diokuz/baron), [статья с описанием принципа](http://habrahabr.ru/company/2gis/blog/169359/), [видео](https://www.youtube.com/watch?v=fzX9-FZ0Z1Q)
