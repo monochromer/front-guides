@@ -92,6 +92,7 @@
 * [simplebar](https://github.com/Grsmto/simplebar)
 * [jsFancyScroll](https://github.com/leoselig/jsFancyScroll)
 * [Optiscroll](https://github.com/albertogasparin/Optiscroll)
+* [react-scrollbars-custom](https://github.com/xobotyi/react-scrollbars-custom)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
