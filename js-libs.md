@@ -124,6 +124,8 @@
 * [Google Charts](https://developers.google.com/chart/)
 * [Chart.js](http://www.chartjs.org/)
 * [amcharts](http://www.amcharts.com)
+* [anychart](https://www.anychart.com/)
+* [fusionCharts](https://fusionchart.com/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
 * [echarts](http://echarts.baidu.com/index-en.html)
 * [n3-charts](http://n3-charts.github.io/line-chart). n3-charts создан поверх D3.js и AngularJS. Он предоставляет множество стандартных графиков в виде настраиваемых AngularJS директив. 
@@ -135,6 +137,8 @@
 * [britecharts](http://eventbrite.github.io/britecharts)
 * [frappe charts](https://github.com/frappe/charts)
 * [apexcharts](https://github.com/apexcharts/apexcharts.js)
+* [plot.ly](https://plot.ly/javascript/)
+* [visjs](https://visjs.org)
 * [еще...](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
 ##### Двустороннее связывание данных
