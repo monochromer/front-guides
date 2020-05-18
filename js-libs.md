@@ -93,6 +93,7 @@
 * [jsFancyScroll](https://github.com/leoselig/jsFancyScroll)
 * [Optiscroll](https://github.com/albertogasparin/Optiscroll)
 * [react-scrollbars-custom](https://github.com/xobotyi/react-scrollbars-custom)
+* [Кастомный скроллбар в Angular](https://habr.com/ru/company/tinkoff/blog/501610/)
 
 ##### Календари
 * [Zebra datepicker](http://stefangabos.ro/jquery/zebra-datepicker/)
